@@ -4,7 +4,7 @@
 
 ## Hello! 😸
 
-+ I'm Adeline Charlotte, an aspiring full-stack software developer. Currently in my final year of university & interning as an iOS Developer.
++ I'm Adeline, an aspiring full-stack software developer. Currently in my final year of university & interning as an iOS Developer.
 + Big fan of learning--I’m always eager to try out new tools, with a particular interest in system design and backend architecture.
 
 ## My Toolbox 🔧
