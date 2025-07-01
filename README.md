@@ -4,8 +4,8 @@
 
 ## Hello! 😸
 
-I'm Adeline Charlotte, an aspiring full-stack software developer. Currently in my final year of university & interning as an iOS Developer.
-Big fan of learning--I’m always eager to try out new tools, with a particular interest in system design and backend architecture.
++ I'm Adeline Charlotte, an aspiring full-stack software developer. Currently in my final year of university & interning as an iOS Developer.
++ Big fan of learning--I’m always eager to try out new tools, with a particular interest in system design and backend architecture.
 
 ## My Toolbox 🔧
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=adelinechrltt&show_icons=true&locale=en" />
