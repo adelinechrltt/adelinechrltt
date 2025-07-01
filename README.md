@@ -1,5 +1,20 @@
-## Hi there 👋
+![Profile View Counter](https://komarev.com/ghpvc/?username=adelinechrltt)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeline-augustinne-704194243/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adeline.chrltt@gmail.com)](mailto:adeline.chrltt@gmail.com)
 
+## Hello! 😸
+
+I'm Adeline Charlotte, an aspiring full-stack software developer. Currently in my final year of university & interning as an iOS Developer.
+Big fan of learning--I’m always eager to try out new tools, with a particular interest in system design and backend architecture.
+
+## My Toolbox 🔧
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=adelinechrltt&show_icons=true&locale=en" />
+
+## &nbsp;Stats
+
+![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=adelinechrltt&hide=contribs,prs&show_icons=true&bg_color=1B436F&title_color=6C9BD1&text_color=EBE0D2&icon_color=007ec6)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adelinechrltt&theme=dark&count_private=true&bg_color=1B436F&title_color=6C9BD1&text_color=a4aacb&icon_color=007ec6)
 <!--
 **adelinechrltt/adelinechrltt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
