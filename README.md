@@ -8,11 +8,11 @@
 + Big fan of learning--I’m always eager to try out new tools, with a particular interest in system design and backend architecture.
 
 ## My Toolbox 🔧
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=adelinechrltt&show_icons=true&locale=en" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricotandrio&layout=compact&langs_count=8" />
 
 ## &nbsp;Stats
 
-![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=adelinechrltt&hide=contribs,prs&show_icons=true&bg_color=1B436F&title_color=6C9BD1&text_color=EBE0D2&icon_color=007ec6)
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=adelinechrltt&show_icons=true&locale=en" />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adelinechrltt&theme=dark&count_private=true&bg_color=1B436F&title_color=6C9BD1&text_color=a4aacb&icon_color=007ec6)
 <!--
