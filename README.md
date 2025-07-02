@@ -8,7 +8,7 @@
 + Big fan of learning--I’m always eager to try out new tools, with a particular interest in system design and backend architecture.
 
 ## My Toolbox 🔧
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricotandrio&layout=compact&langs_count=8" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adelinechrltt&layout=compact&langs_count=8" />
 
 ## &nbsp;Stats
 
