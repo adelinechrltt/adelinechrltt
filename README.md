@@ -4,8 +4,9 @@
 
 ## Hello! :octocat:
 I'm Adeline, an aspiring full-stack software developer.
-+ A proud, lifelong learner! Always eager to try out new tools. Current interest is in system design and backend architecture.
-+ Freshly-graduated from Computer Science at Bina Nusantara University & recently wrapped up my internship as a Junior iOS Developer at Apple Developer Academy Indonesia.
+A lifelong learner, always eager to try out new tools. Current interest is in system design and backend architecture.
++ Currently a fulltime fullstack developer based in Jakarta, Indonesia.
++ Freshly-graduated from Computer Science at Bina Nusantara University, recently wrapped up my internship as a Junior iOS Developer at Apple Developer Academy Indonesia.
 
 Nice to meet you! 👋🏻
 
