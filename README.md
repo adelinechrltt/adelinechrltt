@@ -2,8 +2,9 @@
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeline-augustinne-704194243/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adeline.chrltt@gmail.com)](mailto:adeline.chrltt@gmail.com)
 
-## Hello! :octocat:
+### Hello! :octocat:
 I'm Adeline, an aspiring full-stack software developer.
+
 A lifelong learner, always eager to try out new tools. Current interest is in system design and backend architecture.
 + Currently a fulltime fullstack developer based in Jakarta, Indonesia.
 + Freshly-graduated from Computer Science at Bina Nusantara University, recently wrapped up my internship as a Junior iOS Developer at Apple Developer Academy Indonesia.
